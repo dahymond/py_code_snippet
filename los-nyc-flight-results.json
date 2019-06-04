@@ -1,0 +1,20 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket price": "1306.03",
+        "departure": ", Lagos",
+        "arrival": ", New York",
+        "flight duration": "0 days 10 hours 45 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "11:45pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "5:30am"
+            }
+        ],
+        "plane code": "332"
+    }
+]

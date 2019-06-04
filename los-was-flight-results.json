@@ -1,0 +1,920 @@
+[
+    {
+        "stops": "1 Stop",
+        "ticket price": "1016.03",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 27 hours 40 minutes",
+        "airline": "Turkish Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "8:50pm",
+                "arrival_airport": "Istanbul, Turkey (IST) ",
+                "arrival_time": "5:30am"
+            },
+            {
+                "departure_airport": "Istanbul, Turkey (IST) ",
+                "departure_time": "2:55pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "7:30pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1035.23",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 26 hours 35 minutes",
+        "airline": "Qatar Airways",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "6:00pm",
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)",
+                "arrival_time": "4:45am"
+            },
+            {
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:35pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1109.75",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 24 hours 0 minutes",
+        "airline": "Ethiopian Airlines",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "1:40pm",
+                "arrival_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)",
+                "arrival_time": "9:00pm"
+            },
+            {
+                "departure_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)",
+                "departure_time": "10:45pm",
+                "arrival_airport": "Dublin, Ireland (DUB)",
+                "arrival_time": "5:00am"
+            },
+            {
+                "departure_airport": "Dublin, Ireland (DUB)",
+                "departure_time": "5:45am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "8:40am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1202.73",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 26 hours 10 minutes",
+        "airline": "United",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "5:10pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "8:00pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1202.73",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 21 hours 20 minutes",
+        "airline": "United",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "12:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:10pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1202.73",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 19 hours 55 minutes",
+        "airline": "United",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "10:30am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "1:45pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1202.73",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "United",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "1:15pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "4:05pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1209.78",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 21 hours 20 minutes",
+        "airline": "",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "12:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:10pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1209.78",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "1:15pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "4:05pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1209.78",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 19 hours 55 minutes",
+        "airline": "",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "10:30am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "1:45pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1221.43",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "Lufthansa",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "1:15pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "4:05pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1221.43",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 26 hours 10 minutes",
+        "airline": "Lufthansa",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "5:10pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "8:00pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1221.43",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 21 hours 20 minutes",
+        "airline": "Lufthansa",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "12:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:10pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1221.43",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 19 hours 55 minutes",
+        "airline": "Lufthansa",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "10:30am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "1:45pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1224.83",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 20 hours 30 minutes",
+        "airline": "United",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "7:25am",
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "arrival_time": "8:20am"
+            },
+            {
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "2:20pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1224.83",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 20 hours 30 minutes",
+        "airline": "United",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "9:25am",
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "arrival_time": "10:20am"
+            },
+            {
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "2:20pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1243.53",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 19 hours 5 minutes",
+        "airline": "Brussels Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "8:25am",
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "arrival_time": "9:20am"
+            },
+            {
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "12:55pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1243.53",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 19 hours 5 minutes",
+        "airline": "Brussels Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "7:25am",
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "arrival_time": "8:20am"
+            },
+            {
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "12:55pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1243.53",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 20 hours 30 minutes",
+        "airline": "Brussels Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "9:25am",
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "arrival_time": "10:20am"
+            },
+            {
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "2:20pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1243.53",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 20 hours 30 minutes",
+        "airline": "Brussels Airlines",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:50pm",
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "arrival_time": "6:15am"
+            },
+            {
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)",
+                "departure_time": "7:25am",
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "arrival_time": "8:20am"
+            },
+            {
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "2:20pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1311.23",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 25 hours 40 minutes",
+        "airline": "Air France",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "4:30pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "7:05pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1311.23",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "Air France",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "1:15pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1311.43",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 55 minutes",
+        "airline": "KLM",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "1:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1321.53",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 21 minutes",
+        "airline": "KLM",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "9:55am",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "12:05pm"
+            },
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "1:30pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:06pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1328.63",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "KLM",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "9:30am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "11:00am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "1:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1328.63",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "KLM",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "8:20am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "9:40am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "1:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1328.63",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "KLM",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "8:40am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "10:00am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "1:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1328.63",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "KLM",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "11:35am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "1:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1364.23",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "1:15pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1364.23",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 25 hours 40 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "10:25pm",
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)",
+                "departure_time": "4:30pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "7:05pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1364.43",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 55 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "1:20pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1364.73",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 22 hours 15 minutes",
+        "airline": "KLM",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "arrival_time": "5:45am"
+            },
+            {
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)",
+                "departure_time": "7:20am",
+                "arrival_airport": "London, England, UK (LHR-Heathrow)",
+                "arrival_time": "7:40am"
+            },
+            {
+                "departure_airport": "London, England, UK (LHR-Heathrow)",
+                "departure_time": "11:35am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "3:00pm"
+            }
+        ],
+        "plane code": "332"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "752.03",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "0 days 18 hours 9 minutes",
+        "airline": "Royal Air Maroc",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "6:50am",
+                "arrival_airport": "Casablanca, Morocco (CMN-Mohammed V)",
+                "arrival_time": "11:20am"
+            },
+            {
+                "departure_airport": "Casablanca, Morocco (CMN-Mohammed V)",
+                "departure_time": "4:35pm",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "7:59pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "900.63",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 43 hours 30 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "6:10pm",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "5:00am"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "2:20am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "8:40am"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "900.63",
+        "departure": ", Lagos",
+        "arrival": ", Washington",
+        "flight duration": "1 days 25 hours 35 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)",
+                "departure_time": "12:05pm",
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "arrival_time": "10:50pm"
+            },
+            {
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)",
+                "departure_time": "2:20am",
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)",
+                "arrival_time": "8:40am"
+            }
+        ],
+        "plane code": "77W"
+    }
+]
